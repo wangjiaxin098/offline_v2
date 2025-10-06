@@ -8,4 +8,10 @@
     rowkey 应能够均匀分布到各个RegionServer上
     时间戳反转
 
-    
+3.hbase 异常
+linux 无法使用hbase shell 进入hbase
+![img_13.png](img_13.png)
+![img_14.png](img_14.png)
+
+使用python脚本也没有将hbase的数据查询出来
+

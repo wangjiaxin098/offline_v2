@@ -12,3 +12,6 @@ sudo./minio server /opt/software/minio-data --console-address":19002" --address"
 ![img.png](img.png)
 5. 上传csv文件
 ![img_1.png](img_1.png)
+6.连接hive数据库
+7.查询sql
+![img_12.png](img_12.png)
