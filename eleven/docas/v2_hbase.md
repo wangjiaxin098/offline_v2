@@ -15,3 +15,10 @@ linux 无法使用hbase shell 进入hbase
 
 使用python脚本也没有将hbase的数据查询出来
 
+
+hbase启动成功
+![img_15.png](img_15.png)
+查询hbase表
+![img_16.png](img_16.png)
+
+

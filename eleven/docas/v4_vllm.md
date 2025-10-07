@@ -4,8 +4,8 @@ Qwen3-0.6B模型
 检查python环境
 python3 --version
 
-    2.loRA微调
+2.loRA微调
 
-    3.PySpark数据处理
+3.PySpark数据处理
     
-    4.云端部署配置
+4.云端部署配置
